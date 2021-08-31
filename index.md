@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## San Francisco Bay Area Parking Inventory Study
 
 You can use the [editor on GitHub](https://github.com/ruilee16/sfba_parking/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
